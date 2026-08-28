@@ -1,0 +1,4 @@
+interface:
+  display_name: "发表导向科研写作"
+  short_description: "围绕最强可证实贡献，组织论文证据链、实验取舍与叙事结构"
+  default_prompt: "使用 $publication-centered-research-writing 重构这篇论文的主张、证据链和叙事。"
